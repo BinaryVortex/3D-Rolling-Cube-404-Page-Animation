@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # 🎲 3D Rolling Cube 404 Page Animation
 
 A creative **404 Not Found** page built using **HTML** and **CSS**,
